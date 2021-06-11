@@ -4,7 +4,7 @@
 
 I am *Dale*
 
-```
+``` python
 print("Hello world")
 x = 5
 for i in range(5):
